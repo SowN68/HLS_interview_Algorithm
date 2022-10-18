@@ -1,1 +1,0 @@
-- Template code của https://www.hackerrank.com/
